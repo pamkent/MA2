@@ -2,9 +2,9 @@
    <source src="sheffield.mov" type="video">
  </video>
  
- ##Pam Kent <br>
- ##DICE 3020 <br>
- ##Major Assignment 2: The Shock of the Old<br>
+ <strong>Pam Kent <br>
+ <strong>DICE 3020 <br>
+ <strong>Major Assignment 2: The Shock of the Old<br>
  
  One of the first typewriters in China was developed around 1897 by Devello Sheffield, while it is known as a typewriter, as we can see in the video it doesn’t resemble some of the more modern keyboard interfaces that we think of now.  Instead, the design had 20-30 concentric rings.  Trying to imagine how one would use this typewriter and the amount of characters on it, between 4,000 and 5,000, would mean that only those familiar with the typewriter and the way it worked could actually use it efficiently.  In terms of the characters, they were not organized by any standard Chinese dictionary at the time, the later rectangular designs would have been designed this way.  Instead it was organized with characters arranged by frequency of use on the outer rings and the inner rings would be lesser used characters and there was apparently a section that was devoted to characters used for Sheffield’s missionary work, so this would have taken some getting used to for the operators and they would have to be familiar with religious teachings.
  
