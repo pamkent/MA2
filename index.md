@@ -1,8 +1,4 @@
-<div style="position:relative; padding-bottom:56.25%; padding-top:30px; height:0; overflow:hidden;">
-	<iframe  width="425" height="344" src="https://youtu.be/jhIOAvkNvdo" frameborder="0" allowfullscreen 
-			style="position:absolute; top:0; left:0; width:100%; height:100%;">
-	</iframe>
-</div>
+<object width="425" height="344" data="https://youtu.be/jhIOAvkNvdo"></object>
  
  <strong>Pam Kent <br>
  <strong>DICE 3020 <br>
