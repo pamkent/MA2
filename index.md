@@ -1,6 +1,9 @@
-<video width="320" height="240" controls>
-   <source src="sheffield.mov" type="video">
- </video>
+<video controls width="250">
+
+    <source src="Documents/sheffiel.mov"
+            type="video/mov">
+
+</video>
  
  <strong>Pam Kent <br>
  <strong>DICE 3020 <br>
