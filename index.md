@@ -1,5 +1,6 @@
-<object width="425" height="344" data="https://youtu.be/jhIOAvkNvdo"></object>
- 
+
+<iframe  width="425" height="344" src="https://youtu.be/jhIOAvkNvdo" frameborder="0" allowfullscreen></iframe> 
+
  <strong>Pam Kent <br>
  <strong>DICE 3020 <br>
  <strong>Major Assignment 2: The Shock of the Old<br>
