@@ -1,5 +1,5 @@
 
-<iframe  width="425" height="344" src="https://www.youtube.com/watch?v=jhIOAvkNvdo&feature=youtu.be" frameborder="0" allowfullscreen></iframe> 
+<iframe  width="425" height="344" src="https://youtu.be/embed/jhIOAvkNvdo" frameborder="0" allowfullscreen></iframe> 
 
  <strong>Pam Kent <br>
  <strong>DICE 3020 <br>
